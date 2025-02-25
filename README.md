@@ -1,2 +1,2 @@
-# CUDA Matrix Multiplication
-This project implements matrix multiplication using CUDA.
+# CUDA Programs
+This project contains CUDA programs
